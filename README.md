@@ -1,2 +1,2 @@
-# python_games
+# Repository for Python Games
  Repository to publish the shorts games developed with python ...
